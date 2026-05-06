@@ -1,14 +1,12 @@
 .promo {
-    background-color: #f5f7fa;
-    padding: 96px 0px;
+  background-color: #f5f7fa;
+  padding: 180px 0 96px;
 }
-
 .promo__content {
-    display: flex;
-    align-items: center;
-    gap: 111px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
 }
-
 .promo__group p {
-    margin-bottom: 32px;
+  margin-bottom: 32px;
 }
