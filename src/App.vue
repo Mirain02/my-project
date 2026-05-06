@@ -9,5 +9,3 @@ import VFooter from './components/VFooter.vue';
   <RouterView />
   <VFooter />
 </template>
-
-<style scoped></style>
