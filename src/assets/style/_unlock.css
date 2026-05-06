@@ -1,23 +1,20 @@
 .unlock {
-  padding: 50px 0;
+    padding: 50px 0;
 }
 .unlock__content {
-  display: flex;
-  align-items: center;
-  gap: 37px;
+    display: flex;
+    align-items: center;
+    gap: 37px;
 }
 .unlock__group {
-  max-width: 607px;
-}
-.unlock__group h2 {
-  margin-bottom: 16px;
-  font-size: 37px;
-}
-.unlock__group p {
-  margin-bottom: 32px;
-  font-size: 14px;
-  line-height: 20px;
-}
-.unlock__group .button_primary-xl {
-  font-size: 16px;
+    max-width: 607px;
+    h2 {
+        margin-bottom: 16px;
+    }
+    p {
+        margin-bottom: 32px;
+        font-size: 14px;
+        line-height: 20px;
+
+    }
 }
